@@ -1,6 +1,6 @@
 {
   "name": "learn-bash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "for learning bash",
   "main": "index.js",
   "scripts": {
